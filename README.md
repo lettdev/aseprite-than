@@ -3,7 +3,7 @@
 
 ![Than](https://raw.githubusercontent.com/tungkradle/aseprite-than/master/than.png)
 
-Aseprite is an awesome pixel-art tool and animated sprites editor. You can go checkout [www.aseprite.org](https://www.aseprite.org) for more information. **than** is a dark theme for Aseprite, it's based on the *default* theme by Ilija Melentijevic & David Capello.
+Aseprite is an awesome pixel-art tool and animated sprites editor. You can go checkout [www.aseprite.org](https://www.aseprite.org) for more information. **than** is a dark theme created by me for Aseprite, it's based on the *default* theme by *Ilija Melentijevic & David Capello*.
 
 ## Preview
 ![screenshot-1](https://cloud.githubusercontent.com/assets/24779254/21484481/1035d434-cbc6-11e6-99cc-0865918df152.png)
