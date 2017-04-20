@@ -13,8 +13,8 @@ Aseprite is an awesome pixel-art tool and animated sprites editor. You can go ch
 ![screenshot-3](https://cloud.githubusercontent.com/assets/24779254/21484480/100eced4-cbc6-11e6-9201-1695aeb23b20.png)
 
 ## Installation
-### 1. Download the latest version
-You can download the latest release of **than** from [here](https://github.com/tungkradle/aseprite-than/releases/latest).
+### 1. Download the v1.1.1 version
+You can download this version of **than** from [here](https://github.com/tungkradle/aseprite-than/releases/tag/v1.1.1).
 
 ### 2. Put it in your skin folder
 Open Aseprite.
