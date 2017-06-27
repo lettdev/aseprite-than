@@ -16,10 +16,10 @@ Aseprite is an awesome pixel-art tool and animated sprites editor. You can go ch
 
 ## Installation
 ### 1. Download the latest version
-You can find all releases of **than** at the [Releases page](https://github.com/tungkradle/aseprite-than/releases/).
+You can find all releases of **than** at the [Releases page](https://github.com/tungkradle/aseprite-than/releases/latest).
 
-- For Aseprite > v1.2 beta8 (new theme system) Use _than v1.2.x_ or later.
-- For older version, use _than v1.1.1_.
+- For Aseprite > v1.2 beta8 (new theme system) Use _than v1.2_ or later.
+- For older version, use _than v1.0.3_.
 
 ### 2. Put it in your theme folder
 Open Aseprite.

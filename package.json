@@ -1,0 +1,17 @@
+{
+  "name": "aseprite-than",
+  "displayName": "Than - A dark theme for Aseprite",
+  "description": "Based on Default theme by (C) David Capello and Ilija Melentijevic",
+  "version": "1.2.4",
+  "author": { "name": "Tung Le", "email": "tungkradle@gmail.com", "url": "https://www.tunglt.com/aseprite-than" },
+  "publisher": "aseprite",
+  "license": "CC-BY-4.0",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "than", "path": "." }
+    ]
+  }
+}
