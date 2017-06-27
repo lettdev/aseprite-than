@@ -18,21 +18,19 @@ Aseprite is an awesome pixel-art tool and animated sprites editor. You can go ch
 ### 1. Download the latest version
 You can find all releases of **than** at the [Releases page](https://github.com/tungkradle/aseprite-than/releases/latest).
 
-- For Aseprite > v1.2 beta8 (new theme system) Use _than v1.2_ or later.
-- For older version, use _than v1.0.3_.
+- For Aseprite v1.2 beta 10, use _than v1.2.4_
+- For Aseprite v1.2 beta 8 and beta 9, use _than v1.2.3_
+- For older version, use _than v1.1_.
 
-### 2. Put it in your theme folder
-Open Aseprite.
+### 2. Add it as an extension
+Open _Aseprite_.
 
-Go to *Edit/Preferences/Theme*, you can see there are 2 paths at the top of the *Available Themes* list.
+Go to **Edit/Preferences**.
 
-*For example:*
+Select **Extensions** category in the left column.
 
-> -- C:\Users\<your-username>\AppData\Roaming\Aseprite\data\themes\ --
+Click **Add Extension**, find and select the zip file you've just downloaded then click OK.
 
-> -- C:\Program Files\Aseprite\data\themes\ --
+Select **Themes** category in the right column, choose **than** theme then click **Select** button.
 
-Choose 1 of them then click *Open Folder*. Copy the file you've just downloaded here and extract it.
-
-### 3. Activate the theme
-Open the *Preferences/Theme* dialog again, choose **than** from the list, click *Select* then click *OK*. Restart Aseprite to make the change happen.
+Restart Aseprite to make the change happen.
